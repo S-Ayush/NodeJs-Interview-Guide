@@ -12,6 +12,6 @@
 
 [🚀 Get Started](README.md)
 [📖 View Chapters](#chapter-overview)
-[⭐ Star on GitHub](https://github.com/yourusername/nodejs-interview-guide)
+[⭐ Star on GitHub](https://github.com/s-ayush/nodejs-interview-guide)
 
 ![color](#f0f0f0)

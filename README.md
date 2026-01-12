@@ -3,7 +3,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/nodejs-interview-guide)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/s-ayush/nodejs-interview-guide)
 
 > **A comprehensive, well-researched guide for experienced Node.js developers preparing for technical interviews at top MNCs**
 
@@ -539,13 +539,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 💬 Support
-
-### Get Help:
-- 📧 **Email**: your-email@example.com
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/nodejs-interview-guide/discussions)
-- 🐛 **Issues**: [Report a Bug](https://github.com/yourusername/nodejs-interview-guide/issues)
-
 ### Community:
 - 🌟 **Star** this repo if you find it helpful
 - 🔀 **Fork** to customize for your needs
@@ -636,16 +629,7 @@ This guide was created with:
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/nodejs-interview-guide&type=Date)](https://star-history.com/#yourusername/nodejs-interview-guide&Date)
-
----
-
-## 📞 Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Email**: your-email@example.com
+[![Star History Chart](https://api.star-history.com/svg?repos=s-ayush/nodejs-interview-guide&type=Date)](https://star-history.com/#s-ayush/nodejs-interview-guide&Date)
 
 ---
 
