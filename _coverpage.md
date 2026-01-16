@@ -1,17 +1,18 @@
 ![logo](https://nodejs.org/static/images/logo.svg)
 
-# Node.js Interview Guide
+# Complete Interview Preparation Guide
 
-> A comprehensive interview preparation guide for experienced developers
+> Node.js + System Design guides for experienced developers
 
-- 📚 12 Detailed Chapters
-- 💻 300+ Code Examples
-- 📊 100+ Diagrams
-- ❓ 200+ Interview Questions
-- ✅ 60+ Practice Tasks
+## 📚 Two Complete Guides
+
+- 🟢 **Node.js Guide**: 12 Chapters | 300+ Examples | 100+ Diagrams
+- 🔵 **System Design Guide**: 9 Chapters | 100+ Examples | 70+ Diagrams
+- 📖 **Total**: 21 Chapters | 480+ Pages | 300+ Interview Questions
 
 [🚀 Get Started](README.md)
-[📖 View Chapters](#chapter-overview)
+[🟢 Node.js Chapters](NodeJS-Interview-Guide.md)
+[🔵 System Design Chapters](System-Design-Guide.md)
 [⭐ Star on GitHub](https://github.com/s-ayush/nodejs-interview-guide)
 
 ![color](#f0f0f0)

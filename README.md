@@ -1,19 +1,44 @@
-# 🚀 Node.js Interview Preparation Guide
+# 🚀 Complete Interview Preparation Guide
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/s-ayush/nodejs-interview-guide)
 
-> **A comprehensive, well-researched guide for experienced Node.js developers preparing for technical interviews at top MNCs**
+> **Two comprehensive, well-researched guides for experienced developers preparing for technical interviews at top MNCs and FAANG companies**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Chapters-12-blue" alt="Chapters">
-  <img src="https://img.shields.io/badge/Topics-150+-orange" alt="Topics">
-  <img src="https://img.shields.io/badge/Questions-200+-red" alt="Questions">
-  <img src="https://img.shields.io/badge/Code%20Examples-300+-green" alt="Code Examples">
-  <img src="https://img.shields.io/badge/Diagrams-100+-purple" alt="Diagrams">
+  <img src="https://img.shields.io/badge/Total%20Chapters-21-blue" alt="Chapters">
+  <img src="https://img.shields.io/badge/Total%20Pages-480+-orange" alt="Pages">
+  <img src="https://img.shields.io/badge/Code%20Examples-400+-green" alt="Code Examples">
+  <img src="https://img.shields.io/badge/Diagrams-170+-purple" alt="Diagrams">
+  <img src="https://img.shields.io/badge/Interview%20Questions-300+-red" alt="Questions">
 </div>
+
+---
+
+## 📚 Two Complete Guides
+
+### 🟢 [Node.js Interview Preparation Guide](./NodeJS-Interview-Guide.md)
+**12 Chapters** | **250+ Pages** | **300+ Code Examples** | **100+ Diagrams**
+
+Complete Node.js interview preparation from fundamentals to advanced topics including:
+- Event Loop & Async Programming
+- Express.js & Web Development
+- Authentication & Security
+- Performance & Scalability
+- Microservices Architecture
+
+### 🔵 [System Design Guide](./System-Design-Guide.md)
+**9 Chapters** | **230+ Pages** | **100+ Code Examples** | **70+ Diagrams**
+
+Comprehensive system design guide with real-world examples and case studies:
+- Scalability & Load Balancing
+- Database Design & Sharding
+- Caching Strategies
+- API Design (REST, GraphQL, gRPC)
+- Microservices Patterns
+- Reliability & Resilience
 
 ---
 
@@ -40,9 +65,13 @@
 
 ## 🎯 About
 
-This **Node.js Interview Preparation Guide** is a comprehensive resource designed specifically for **experienced developers (4+ years)** preparing for technical interviews at top-tier companies and MNCs.
+This repository contains **two comprehensive guides** designed specifically for **experienced developers (4+ years)** preparing for technical interviews at top-tier companies, MNCs, and FAANG:
 
-With **12 detailed chapters**, **300+ code examples**, **100+ diagrams**, and **200+ interview questions**, this guide covers everything from Node.js fundamentals to advanced topics like microservices architecture and system design.
+### 🟢 Node.js Interview Preparation Guide
+**12 detailed chapters** covering everything from Node.js fundamentals to advanced topics like microservices architecture, with **300+ code examples**, **100+ diagrams**, and **200+ interview questions**.
+
+### 🔵 System Design Guide
+**9 comprehensive chapters** covering system design fundamentals, scalability patterns, database design, caching strategies, and reliability engineering with **100+ production-ready code examples**, **70+ architecture diagrams**, and **3 complete case studies** (URL Shortener, Twitter, Netflix).
 
 ### ⭐ Star This Repository!
 
@@ -50,20 +79,20 @@ If you find this guide helpful, please consider starring it to help others disco
 
 ---
 
-## 👥 Who This Guide Is For
+## 👥 Who These Guides Are For
 
-✅ **Experienced Node.js Developers** (4+ years) preparing for interviews
-✅ **Backend Engineers** looking to strengthen their Node.js knowledge
-✅ **Full-Stack Developers** wanting to master server-side JavaScript
-✅ **Software Engineers** preparing for FAANG/MNC interviews
-✅ **Tech Leads** wanting to refresh their Node.js fundamentals
-✅ **Self-taught Developers** looking for structured learning path
+✅ **Experienced Software Engineers** (4+ years) preparing for senior/staff interviews
+✅ **Backend Engineers** mastering Node.js and distributed systems
+✅ **Full-Stack Developers** preparing for FAANG/MNC technical rounds
+✅ **Tech Leads/Architects** refreshing system design fundamentals
+✅ **Senior Engineers** transitioning to staff/principal roles
+✅ **Self-taught Developers** looking for structured, comprehensive learning
 
 ---
 
 ## 📦 What's Included
 
-### 📚 **12 Comprehensive Chapters**
+### 🟢 **Node.js Guide: 12 Comprehensive Chapters**
 
 Each chapter includes:
 - 📝 **Detailed Explanations** with real-world context
@@ -73,18 +102,27 @@ Each chapter includes:
 - ❓ **Interview Questions** (Basic → Advanced)
 - ✅ **Key Takeaways** for quick revision
 
-### 📑 **4 Detailed Appendices**
+**Plus 4 Detailed Appendices:**
+- Quick Navigation Index
+- Key Concepts Quick Reference
+- Interview Preparation Checklist
+- Common Mistakes to Avoid
 
-- **Appendix A**: Quick Navigation Index
-- **Appendix B**: Key Concepts Quick Reference
-- **Appendix C**: Interview Preparation Checklist
-- **Appendix D**: Common Mistakes to Avoid
+### 🔵 **System Design Guide: 9 Comprehensive Chapters**
 
-### 🎓 **Study Plans**
+Each chapter includes:
+- 🏗️ **Architecture Patterns** with production examples
+- 📈 **Capacity Estimation** and trade-off analysis
+- 💡 **Real-World Case Studies** (Twitter, Netflix, URL Shortener)
+- 🔧 **Code Implementations** (100+ production-ready examples)
+- 🎯 **Interview Framework** (REDSAD methodology)
+- ⚡ **Best Practices** from top tech companies
 
-- 1 Month Plan (Comprehensive)
-- 2 Weeks Plan (Intensive)
-- 1 Week Plan (Crash Course)
+### 🎓 **Multiple Study Plans**
+
+- **Node.js**: 1 Month / 2 Weeks / 1 Week Plans
+- **System Design**: 4 Weeks / 2 Weeks / Interview-Focused Plans
+- **Combined**: Complete preparation roadmap
 
 ---
 
@@ -96,25 +134,33 @@ Each chapter includes:
 
 ## 🚀 Quick Start
 
-### Option 1: Start from Beginning
+### 🟢 For Node.js Preparation:
 ```bash
 1. Open NodeJS-Interview-Guide.md (Master file)
-2. Follow the recommended study plan
-3. Start with Chapter 1
+2. Follow the recommended study plan (1 month / 2 weeks / 1 week)
+3. Start with Chapter 1 or jump to specific topics
 ```
 
-### Option 2: Interview in 1 Week?
+### 🔵 For System Design Preparation:
 ```bash
-1. Go directly to Chapter 12 (Interview Questions)
-2. Review Appendix B (Key Concepts)
-3. Practice coding challenges daily
+1. Open System-Design-Guide.md (Master file)
+2. Start with fundamentals (CAP, Scalability, Databases)
+3. Review case studies (Twitter, Netflix, URL Shortener)
+4. Practice with REDSAD interview framework
 ```
 
-### Option 3: Topic-Specific Learning
+### ⚡ Interview in 1 Week?
 ```bash
-1. Use Appendix A (Quick Navigation)
-2. Jump to specific topic
-3. Complete related practice tasks
+Node.js: Chapter 2 (Event Loop) + Chapter 12 (Interview Questions)
+System Design: Chapter 6 (Case Studies) + Chapter 9 (Interview Framework)
+Practice: Mock interviews + coding challenges daily
+```
+
+### 🎯 Topic-Specific Learning:
+```bash
+1. Use master guide navigation (Appendix A for Node.js)
+2. Jump directly to specific chapter
+3. Complete practice tasks and interview questions
 ```
 
 ---
@@ -125,20 +171,33 @@ Each chapter includes:
 WEEKEND/
 │
 ├── README.md                              # You are here
-├── NodeJS-Interview-Guide.md              # Master navigation file
 │
-├── Chapter-01-NodeJS-Fundamentals.md      # Node.js Architecture
-├── Chapter-02-Event-Loop.md               # Event Loop Deep Dive
-├── Chapter-03-Async-Patterns.md           # Async Programming
-├── Chapter-04-Core-Modules.md             # File System & Core APIs
-├── Chapter-05-Streams-Buffers.md          # Streams & Buffers
-├── Chapter-06-Express.md                  # Express.js & Web Dev
-├── Chapter-07-Database-Integration.md     # MongoDB & PostgreSQL
-├── Chapter-08-Authentication-Security.md  # Auth & Security
-├── Chapter-09-Testing-Debugging.md        # Testing & Debugging
-├── Chapter-10-Performance-Scalability.md  # Performance Optimization
-├── Chapter-11-Microservices-APIs.md       # Microservices Architecture
-└── Chapter-12-Interview-Best-Practices.md # Interview Questions & Tips
+├── 🟢 Node.js Guide (12 Chapters)
+│   ├── NodeJS-Interview-Guide.md         # Master navigation
+│   ├── Chapter-01-NodeJS-Fundamentals.md
+│   ├── Chapter-02-Event-Loop.md
+│   ├── Chapter-03-Async-Patterns.md
+│   ├── Chapter-04-Core-Modules.md
+│   ├── Chapter-05-Streams-Buffers.md
+│   ├── Chapter-06-Express.md
+│   ├── Chapter-07-Database-Integration.md
+│   ├── Chapter-08-Authentication-Security.md
+│   ├── Chapter-09-Testing-Debugging.md
+│   ├── Chapter-10-Performance-Scalability.md
+│   ├── Chapter-11-Microservices-APIs.md
+│   └── Chapter-12-Interview-Best-Practices.md
+│
+└── 🔵 System Design Guide (9 Chapters)
+    ├── System-Design-Guide.md            # Master navigation
+    ├── SystemDesign-01-Fundamentals.md
+    ├── SystemDesign-02-Scalability.md
+    ├── SystemDesign-03-Database.md
+    ├── SystemDesign-04-Caching.md
+    ├── SystemDesign-05-API-Design.md
+    ├── SystemDesign-06-Case-Studies.md
+    ├── SystemDesign-07-Microservices.md
+    ├── SystemDesign-08-Reliability.md
+    └── SystemDesign-09-Interviews.md
 ```
 
 ---
@@ -183,6 +242,41 @@ WEEKEND/
 | 12 | **[Interview Questions & Best Practices](./Chapter-12-Interview-Best-Practices.md)** | 200+ Questions, Coding Challenges, System Design, Interview Tips | 4-5 hrs |
 
 **Total Study Time**: 30-35 hours
+
+---
+
+## 📖 System Design Guide Chapters
+
+### 🏗️ Foundation (Critical) - Priority: ⭐⭐⭐⭐⭐
+
+| # | Chapter | Topics | Focus |
+|---|---------|--------|-------|
+| 1 | **[System Design Fundamentals](./SystemDesign-01-Fundamentals.md)** | CAP Theorem, Consistency Models, Availability Patterns, Trade-offs | 25+ pages |
+| 2 | **[Scalability & Load Balancing](./SystemDesign-02-Scalability.md)** | Horizontal/Vertical Scaling, CDN, Load Balancing Algorithms, Caching Layers | 28+ pages |
+| 3 | **[Database Design & Sharding](./SystemDesign-03-Database.md)** | SQL vs NoSQL, Sharding Strategies, Replication, Indexing, Transactions | 30+ pages |
+
+### 🔧 Core Patterns - Priority: ⭐⭐⭐⭐⭐
+
+| # | Chapter | Topics | Focus |
+|---|---------|--------|-------|
+| 4 | **[Caching Strategies](./SystemDesign-04-Caching.md)** | Cache-aside, Write-through, Write-behind, Invalidation, Eviction Policies | 26+ pages |
+| 5 | **[API Design & Communication](./SystemDesign-05-API-Design.md)** | REST, GraphQL, gRPC, WebSockets, Message Queues, Pub/Sub | 28+ pages |
+
+### 🎯 Real-World Systems - Priority: ⭐⭐⭐⭐⭐
+
+| # | Chapter | Topics | Focus |
+|---|---------|--------|-------|
+| 6 | **[Complete Case Studies](./SystemDesign-06-Case-Studies.md)** | URL Shortener, Twitter Clone, Netflix Video Streaming | 35+ pages |
+
+### 🚀 Advanced Patterns - Priority: ⭐⭐⭐⭐
+
+| # | Chapter | Topics | Focus |
+|---|---------|--------|-------|
+| 7 | **[Microservices Architecture](./SystemDesign-07-Microservices.md)** | Service Decomposition, Saga Pattern, Service Discovery, API Gateway | 27+ pages |
+| 8 | **[Reliability Engineering](./SystemDesign-08-Reliability.md)** | Circuit Breaker, Retry Mechanisms, Bulkhead, Chaos Engineering | 26+ pages |
+| 9 | **[System Design Interviews](./SystemDesign-09-Interviews.md)** | REDSAD Framework, Mock Interviews, Evaluation Criteria, Common Mistakes | 30+ pages |
+
+**Total Content**: 230+ pages | **100+ Code Examples** | **70+ Diagrams** | **3 Complete Case Studies**
 
 ---
 
@@ -360,7 +454,9 @@ Git
 
 ## 🎓 Topics Covered
 
-### Core Fundamentals
+### 🟢 Node.js Guide Topics
+
+#### Core Fundamentals
 - ✅ Node.js Architecture (V8, libuv)
 - ✅ Event Loop & Event-Driven Programming
 - ✅ Single-Threaded vs Multi-Threaded
@@ -427,14 +523,82 @@ Git
 - ✅ Performance Monitoring
 - ✅ APM Tools
 
-### Advanced Topics
+#### Advanced Topics
 - ✅ Microservices Architecture
 - ✅ REST vs GraphQL
 - ✅ Message Queues (RabbitMQ)
 - ✅ API Gateway Pattern
 - ✅ Circuit Breaker Pattern
 - ✅ Service Discovery
-- ✅ System Design
+- ✅ System Design Basics
+
+### 🔵 System Design Guide Topics
+
+#### Fundamentals
+- ✅ CAP Theorem (Consistency, Availability, Partition Tolerance)
+- ✅ Consistency Models (Strong, Eventual, Causal)
+- ✅ Availability Patterns (Failover, Replication, Redundancy)
+- ✅ Trade-off Analysis
+
+#### Scalability & Performance
+- ✅ Horizontal vs Vertical Scaling
+- ✅ Load Balancing (Round Robin, Least Connections, Consistent Hashing)
+- ✅ CDN Architecture & Edge Computing
+- ✅ Caching Layers (L1, L2, Distributed)
+
+#### Database Design
+- ✅ SQL vs NoSQL (When to use what)
+- ✅ Sharding Strategies (Hash-based, Range-based, Geographic)
+- ✅ Replication (Master-Slave, Master-Master, Multi-Master)
+- ✅ Indexing & Query Optimization
+- ✅ ACID vs BASE
+- ✅ Distributed Transactions
+
+#### Caching Strategies
+- ✅ Cache-aside (Lazy Loading)
+- ✅ Write-through & Write-behind
+- ✅ Cache Invalidation Strategies
+- ✅ Eviction Policies (LRU, LFU, FIFO)
+- ✅ Distributed Caching (Redis, Memcached)
+
+#### API Design & Communication
+- ✅ REST API Best Practices
+- ✅ GraphQL Architecture
+- ✅ gRPC & Protocol Buffers
+- ✅ WebSockets for Real-time
+- ✅ Message Queues (RabbitMQ, Kafka)
+- ✅ Pub/Sub Patterns
+
+#### Microservices Patterns
+- ✅ Service Decomposition Strategies
+- ✅ Saga Pattern (Choreography & Orchestration)
+- ✅ Service Discovery (Client-side & Server-side)
+- ✅ API Gateway Pattern
+- ✅ Backend for Frontend (BFF)
+- ✅ Event-Driven Architecture
+
+#### Reliability Engineering
+- ✅ Circuit Breaker Pattern
+- ✅ Retry Mechanisms (Exponential Backoff)
+- ✅ Bulkhead Pattern
+- ✅ Rate Limiting & Throttling
+- ✅ Health Checks & Monitoring
+- ✅ Chaos Engineering
+- ✅ Disaster Recovery
+
+#### Real-World Case Studies
+- ✅ URL Shortener (Complete Design)
+- ✅ Twitter Clone (Social Media at Scale)
+- ✅ Netflix Video Streaming (CDN & Encoding)
+- ✅ Capacity Estimation
+- ✅ Bottleneck Identification
+
+#### Interview Preparation
+- ✅ REDSAD Framework
+- ✅ Mock Interview Examples
+- ✅ Evaluation Criteria
+- ✅ Common Mistakes to Avoid
+- ✅ How to Handle Unknown Requirements
 
 ---
 
@@ -563,20 +727,20 @@ This guide was created with:
 
 ---
 
-## 📊 Stats
+## 📊 Combined Stats
 
 <div align="center">
 
-| Metric | Count |
-|--------|-------|
-| **Total Chapters** | 12 |
-| **Topics Covered** | 150+ |
-| **Code Examples** | 300+ |
-| **Diagrams** | 100+ |
-| **Interview Questions** | 200+ |
-| **Practice Tasks** | 60+ |
-| **Total Pages** | 250+ |
-| **Study Time** | 30-35 hours |
+| Metric | Node.js Guide | System Design Guide | **Total** |
+|--------|---------------|---------------------|-----------|
+| **Chapters** | 12 | 9 | **21** |
+| **Pages** | 250+ | 230+ | **480+** |
+| **Code Examples** | 300+ | 100+ | **400+** |
+| **Diagrams** | 100+ | 70+ | **170+** |
+| **Interview Questions** | 200+ | 100+ | **300+** |
+| **Case Studies** | - | 3 Complete | **3** |
+| **Practice Tasks** | 60+ | 30+ | **90+** |
+| **Study Time** | 30-35 hrs | 35-40 hrs | **65-75 hrs** |
 
 </div>
 
@@ -637,15 +801,15 @@ This guide was created with:
 
 ### 🚀 Ready to Start?
 
-**[📖 Begin with the Master Guide](./NodeJS-Interview-Guide.md)**
+#### 🟢 Node.js Guide
+**[📖 Node.js Master Guide](./NodeJS-Interview-Guide.md)** | **[📚 Chapter 1: Fundamentals](./Chapter-01-NodeJS-Fundamentals.md)** | **[🎯 All Node.js Chapters](#chapter-overview)**
 
-**[📚 Jump to Chapter 1](./Chapter-01-NodeJS-Fundamentals.md)**
-
-**[🎯 View All Chapters](#chapter-overview)**
+#### 🔵 System Design Guide
+**[📖 System Design Master Guide](./System-Design-Guide.md)** | **[📚 Chapter 1: Fundamentals](./SystemDesign-01-Fundamentals.md)** | **[🎯 All System Design Chapters](#system-design-guide-chapters)**
 
 ---
 
-**Made with ❤️ for Node.js Developers**
+**Made with ❤️ for Software Engineers**
 
 **Star ⭐ this repo if you find it helpful!**
 

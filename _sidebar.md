@@ -1,9 +1,12 @@
 <!-- _sidebar.md -->
 
 * [🏠 Home](README.md)
-* [📖 Master Guide](NodeJS-Interview-Guide.md)
 
 ---
+
+**🟢 NODE.JS GUIDE**
+
+* [📖 Node.js Master Guide](NodeJS-Interview-Guide.md)
 
 **📌 Foundation**
 
@@ -34,9 +37,35 @@
 
 ---
 
+**🔵 SYSTEM DESIGN GUIDE**
+
+* [📖 System Design Master Guide](System-Design-Guide.md)
+
+**🏗️ Foundation**
+
+* [Chapter 1: System Design Fundamentals](SystemDesign-01-Fundamentals.md)
+* [Chapter 2: Scalability & Load Balancing](SystemDesign-02-Scalability.md)
+* [Chapter 3: Database Design & Sharding](SystemDesign-03-Database.md)
+
+**🔧 Core Patterns**
+
+* [Chapter 4: Caching Strategies](SystemDesign-04-Caching.md)
+* [Chapter 5: API Design & Communication](SystemDesign-05-API-Design.md)
+
+**🎯 Real-World Systems**
+
+* [Chapter 6: Complete Case Studies](SystemDesign-06-Case-Studies.md)
+
+**🚀 Advanced Patterns**
+
+* [Chapter 7: Microservices Architecture](SystemDesign-07-Microservices.md)
+* [Chapter 8: Reliability Engineering](SystemDesign-08-Reliability.md)
+* [Chapter 9: System Design Interviews](SystemDesign-09-Interviews.md)
+
+---
+
 **📑 Quick Links**
 
-* [Study Plans](NodeJS-Interview-Guide.md#study-plans)
-* [Key Concepts](NodeJS-Interview-Guide.md#appendix-b-key-concepts-quick-reference)
-* [Interview Checklist](NodeJS-Interview-Guide.md#appendix-c-interview-preparation-checklist)
-* [Common Mistakes](NodeJS-Interview-Guide.md#appendix-d-common-mistakes-to-avoid)
+* [Node.js Study Plans](NodeJS-Interview-Guide.md#study-plans)
+* [System Design Study Plans](System-Design-Guide.md#study-plans)
+* [Interview Preparation](NodeJS-Interview-Guide.md#appendix-c-interview-preparation-checklist)
